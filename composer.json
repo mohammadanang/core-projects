@@ -1,0 +1,17 @@
+{
+    "name": "apollo16/core-project",
+    "description": "Core Base Controller for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohammadanang",
+            "email": "m.anangnur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Apollo16\\": "src/"}
+    },
+    "require": {}
+}
